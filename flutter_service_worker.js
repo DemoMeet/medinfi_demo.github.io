@@ -3,8 +3,8 @@ const MANIFEST = 'flutter-app-manifest';
 const TEMP = 'flutter-temp-cache';
 const CACHE_NAME = 'flutter-app-cache';
 
-const RESOURCES = {"assets/AssetManifest.bin": "ee34dfbc6d528b3f92562a76c6bfe6b5",
-"assets/AssetManifest.json": "e1393b3348ce91f2c830912886423c9c",
+const RESOURCES = {"assets/AssetManifest.bin": "e87a2967a6024438586db06629bdbd28",
+"assets/AssetManifest.json": "5d18f0c0919d64c59df6ce63b4684083",
 "assets/assets/fonts/inter/Inter-Black.ttf": "980c7e8757e741bb49c7c96513924c61",
 "assets/assets/fonts/inter/Inter-Light.ttf": "d55f45d07cfe01e8797bd1566561f718",
 "assets/assets/fonts/inter/Inter-Medium.ttf": "ed533866b5c83114c7dddbcbc2288b19",
@@ -79,9 +79,12 @@ const RESOURCES = {"assets/AssetManifest.bin": "ee34dfbc6d528b3f92562a76c6bfe6b5
 "assets/assets/icons/user_icon/icn%2520(7).png": "a11452ec68b72a934468c816df8b4b18",
 "assets/assets/icons/user_icon/icn%2520(8).png": "39ad4e7a1bfdc9fb142bfdc583ebed6a",
 "assets/assets/icons/user_icon/icn%2520(9).png": "05987a478245230348a64d7565679c0c",
+"assets/assets/images/bank.png": "2875f35b0acf616885e156f67128c257",
+"assets/assets/images/cash.png": "aa63182f62ab528c7180ff0cbe9a519e",
 "assets/assets/images/def_employee.jpg": "680e48df3e9e1fa83951cb336fa6658c",
 "assets/assets/images/def_medicine.png": "059cfb97853862ad04268a13f6f70ef6",
 "assets/assets/images/error.jpg": "e4eb6c354950b9d6fcd6df912e177552",
+"assets/assets/images/invoice_bg.jpg": "afda56c612fd36dc96a1dde068c4b702",
 "assets/assets/images/invoice_bg.png": "591f6b83601eaaa66fff3410a0d2dc0c",
 "assets/assets/images/logbg.png": "0f9b365fb3c1263f511d5d92b63f2027",
 "assets/assets/images/login_bg.png": "1eea8811624767660dfafb5f89c60921",
@@ -89,8 +92,8 @@ const RESOURCES = {"assets/AssetManifest.bin": "ee34dfbc6d528b3f92562a76c6bfe6b5
 "assets/assets/images/medbg.png": "76e67564a5901d520f1037a048ab6e47",
 "assets/assets/images/profile.jpeg": "4c98bbedb8b86f7fc205d6742f34d16d",
 "assets/FontManifest.json": "328b65db811a9364c87ebca309720595",
-"assets/fonts/MaterialIcons-Regular.otf": "ef99b5eb3652cbcc83f09553048ecc05",
-"assets/NOTICES": "f6d230e7ddaad500aa97c98ecda1dd42",
+"assets/fonts/MaterialIcons-Regular.otf": "9db186ee0e65abfe3fceddc65c7821a5",
+"assets/NOTICES": "b704b17c556e867fe325d29471c5c989",
 "assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "89ed8f4e49bcdfc0b5bfc9b24591e347",
 "assets/shaders/ink_sparkle.frag": "f8b80e740d33eb157090be4e995febdf",
 "canvaskit/canvaskit.js": "bbf39143dfd758d8d847453b120c8ebb",
@@ -105,10 +108,10 @@ const RESOURCES = {"assets/AssetManifest.bin": "ee34dfbc6d528b3f92562a76c6bfe6b5
 "icons/Icon-512.png": "96e752610906ba2a93c65f8abe1645f1",
 "icons/Icon-maskable-192.png": "c457ef57daa1d16f64b27b786ec2ea3c",
 "icons/Icon-maskable-512.png": "301a7604d45b3e739efc881eb04896ea",
-"index.html": "2c13c34ce08fc545ad86fdacfac3c079",
-"/": "2c13c34ce08fc545ad86fdacfac3c079",
+"index.html": "5cf9ef5070bef5d0d7f2d9342016d0e9",
+"/": "5cf9ef5070bef5d0d7f2d9342016d0e9",
 "logo_mini.png": "781871b013ec91647882a14ba47bf241",
-"main.dart.js": "f28843329be7782e222d36303668d0fc",
+"main.dart.js": "0dd0aa099e2b5e38a1891b89481419f4",
 "manifest.json": "f0d4dad3eda2b5c2afcf3a5f7530b7b8",
 "version.json": "8b93ec86bec21871ef820ef0e67bdedd"};
 // The application shell files that are downloaded before a service worker can
